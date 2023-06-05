@@ -1,0 +1,106 @@
+hombre{
+[destacados]
+
+[bolsas]{
+bolsas de piel
+bolsas estilo masajero y cruzados
+portafolios
+mochilas
+bolsas grandes
+bolsas pequeñas y cangureras
+}
+
+[carteras], [accesorios]{
+cinturones
+bisuteria
+lentes de sol
+bufandas
+sombrero y guantes
+corbatas y pañuelo
+llaveros y charms
+accesorios de tecnologiia
+}
+
+[viajes]{
+todo el equipaje y accesorios
+equipaje con ruedas
+equipaje flexible y bolsas de viaje
+accesorios y organizadores de viaje
+}
+
+[zapatos]{
+todos los zapatos
+tenis
+mocasines
+zapatos con agujetas y hebillas 
+botas
+sandalias
+}
+
+[ropa]{
+toda la ropa
+cazadoras y abrigos
+blazers y chaquetas
+pantalones
+camisas
+prendas tejidas y sudaderas 
+camisetas y camisas tipo polo
+traje de baño
+}
+
+
+mujer{
+[bolsas de mano]{
+todas la bolsas de mano
+seleccion de piel
+bolsas para el hombro y cruzados
+bolsas grandes
+bolsas con cadena y clutches
+bolsas mini
+correas
+}
+[Carteras y articulos de piel pequeños]{
+todos los articulos
+carteras largas
+carteras compactos
+carteras con cadena y correa
+bolsas
+portatarjetas y llaveros
+fundas para telefono
+}
+
+[viajes]{
+todo el equipaje y accesorios
+equipaje con ruedas
+equipaje flexible y bolsas de viaje
+accesorios y organizadores de viaje
+}
+
+[accesorios]{
+pañuelos de seda y bandanas
+chales y estolas
+bisuteria
+bufandas
+sombrero y guantes
+cinturones
+lentes de sol
+llaveros y charms
+accesorios para el pelo
+accesorios de tecnologia
+}
+
+[Bisuteria]{
+todos los articulos
+aretes
+collares y pendientes
+brazaletes
+anillos
+}
+
+[ropa]{
+
+}
+}
+joyeria
+relojes
+perfumes
